@@ -27,6 +27,6 @@ Time stamps.
 2. -> 4:10:58 Machine learning project.
 3. -> 4:59:12 Building web app with Django framework.
 
-My advise is that watch out for the core concepts then skip from 3:56:00 to 4:59:12. It's safe to skip the first and second projects since they don't align with our goal and will be a waste of our precious time. But you can defintely check them if you might be having intrerst with exploring python use cases.
+My advise is watch from beginning to 3:56:00 then skip to 4:59:12. It's safe to skip the first and second projects since they don't align with our goal and will be a waste of our precious time. But you can defintely check them if you might be having interest with exploring python use cases.
 
 
