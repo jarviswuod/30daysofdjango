@@ -23,6 +23,7 @@ Since we are limited to time frame don't waste much time here coz there's still 
 Since we have a limited time and there's need to save every second. No need watch everything in the tutorial. I promise you won't miss anything for our goal success. Tutorial link: youtube.com/watch?v=_uQrJ0TkZlc
 
 Time stamps. 
+1. -> 0:00:00 Core python concepts
 1. -> 3:56:00 Excel Spreadsheet automation.
 2. -> 4:10:58 Machine learning project.
 3. -> 4:59:12 Building web app with Django framework.
