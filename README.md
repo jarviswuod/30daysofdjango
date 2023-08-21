@@ -30,7 +30,7 @@ Watch from beginning to [3:56:00](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=
 1. Shifting to VS code
 2. Deployment on Heroku
 3. Breaking down Django introduction part.
-4. Getting the most from Tutorial
+4. Getting the most from Tutorial/ How to learn
 
 ### 1. Getting Started with Django in VS code
 --------------------------------------------------
