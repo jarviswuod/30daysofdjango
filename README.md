@@ -1,5 +1,5 @@
 # 30daysofdjango
-This repo is for sharing Django learning process for 30days afterwards building projects from knowledge gained and definitely add it to resume.
+This repo is for sharing Django learning process for 30days afterwards building a real-world project and definitely add it to resume.
 
 ## Resorces used
 1. Watch Python Tutorial  By Mosh --> youtube.com/watch?v=_uQrJ0TkZlc&t
