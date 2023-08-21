@@ -2,9 +2,9 @@
 This repo is for sharing Django learning process for 30days afterwards building a real-world project and definitely add it to resume.
 
 ## Resources used
-1. [Watch Python Tutorial  By Mosh](youtube.com/watch?v=_uQrJ0TkZlc)
-2. [Tutorial series on django by Dennis Ivy](youtube.com/watch?v=xv_bwpA_aEA&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)
-3. [Build a Social Media App with Django](youtube.com/watch?v=xSUm6iMtREA)
+1. [Watch Python Tutorial  By Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+2. [Tutorial series on django by Dennis Ivy](https://www.youtube.com/watch?v=xv_bwpA_aEA&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)
+3. [Build a Social Media App with Django](https://www.youtube.com/watch?v=xSUm6iMtREA)
 4. Plus any tutorial that is promising...
 
 Don't just watch, code along to get the most.
@@ -17,11 +17,11 @@ You have some python knowledge? No worries just rewatch the tutorial for review.
 Since we are limited to time frame don't waste much time here coz there's still have lots to cover. 
 
 ### Parts to skip
-Watch from beginning to [3:56:00](youtube.com/watch?v=_uQrJ0TkZlc&t=14160s) then skip to [4:59:12](youtube.com/watch?v=_uQrJ0TkZlc&t=17952s). It's safe to skip the first and second projects since they don't align with our goal and will be a waste of our precious time plus we have a limited time and there's need to save every second.
-1. [0:00:00](youtube.com/watch?v=_uQrJ0TkZlc) Core python concepts
-1. [3:56:00](youtube.com/watch?v=_uQrJ0TkZlc&t=14160s) Excel Spreadsheet automation.
-2. [4:10:58](youtube.com/watch?v=_uQrJ0TkZlc&t=15058s) Machine learning project.
-3. [4:59:12](youtube.com/watch?v=_uQrJ0TkZlc&t=17952s) Building web app with Django framework.
+Watch from beginning to [3:56:00](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=14160s) then skip to [4:59:12](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=17952s). It's safe to skip the first and second projects since they don't align with our goal and will be a waste of our precious time plus we have a limited time and there's need to save every second.
+1. [0:00:00](https://www.youtube.com/watch?v=_uQrJ0TkZlc) Core python concepts
+1. [3:56:00](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=14160s) Excel Spreadsheet automation.
+2. [4:10:58](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=15058s) Machine learning project.
+3. [4:59:12](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=17952s) Building web app with Django framework.
 
 
 
