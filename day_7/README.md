@@ -1,47 +1,75 @@
-# 30daysofdjango
-This repo is for sharing Django learning process for 30days afterwards building a real-world project and definitely add it to resume.
+# 1. Week 1 overview
 
-## Resources used
-1. [Watch Python Tutorial  By Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
-2. [Tutorial series on django by Dennis Ivy](https://www.youtube.com/watch?v=xv_bwpA_aEA&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)
-3. [Build a Social Media App with Django](https://www.youtube.com/watch?v=xSUm6iMtREA)
-4. Plus any tutorial that is promising...
+---
 
-Don't just watch, code along to get the most.
+First week of the challenge is done. I finished the first tutorial by Mosh Hamedani. It was quite length for sure 6+ hrs hour of content. It's also a steep learning curve especially to someone who hasn't tried coding before.
 
-## Python Tutorial  By Mosh
-This tutorial introduces you to all the core concepts to getting started with python. It's like the base foundation to the entire journey. Ensure to have the core concpets well before moving forward else you will be more confused.
-Take you time to learning the concepts.
-You have some python knowledge? No worries just rewatch the tutorial for review. You can even watch the tutorial 2x faster if necessary. It's just important to jog your mind with the course before diving to Django.
+The course really gives you the core contents in python; variables, loops , lists, dictionaries, functions, classes, modules, packages plus python syntax. It also contains a brief introduction to django which is really eye opening.
 
-Since we are limited to time frame don't waste much time here coz there's still have lots to cover. 
+I skipped some part (Python Project use cases) because I don't think it's of value to achieving my goal plus to save on time. Be sure to check them out if you are interested in python use cases, time stamps in projects readME file.
 
-### Parts to skip
-Watch from beginning to [3:56:00](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=14160s) then skip to [4:59:12](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=17952s). It's safe to skip the first and second projects since they don't align with our goal and will be a waste of our precious time plus we have a limited time and there's need to save every second.
-1. [0:00:00](https://www.youtube.com/watch?v=_uQrJ0TkZlc) Core python concepts
-1. [3:56:00](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=14160s) Excel Spreadsheet automation.
-2. [4:10:58](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=15058s) Machine learning project.
-3. [4:59:12](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=17952s) Building web app with Django framework.
+To get the most from the course one really need to;
 
+1. Code along with the tutor.
+2. Make sure you have a notebook this will really help you in reference instead of re-watching long video
+3. Attempt all coding challenges offered by the tutor, you don't have to get them right, all that matters is giving it a shot.
+4. Repeat a concept if need be and make sure you master it before moving forward.
+5. Make sure you finish watching the tutorial especially the django project part.
+6. Don't proceed to the next tutorial before making any 2 of your own mini/ dummy projects this will build your confidence and ensure you master the concepts well.
 
+To find the course plus other important resources check the project's ReadMe file. https://github.com/dotjarvis/30daysofdjango.git
 
+## Day 1
 
-## Week 1 Talk abouts.
-1. Shifting to VS code
-2. Deployment on Heroku
-3. Breaking down Django introduction part.
-4. Getting the most from Tutorial/ How to learn
+1. Variables
+2. Working with strings
+3. Type conversion
+4. Attempted 4 challenges and succeeded
 
-### 1. Getting Started with Django in VS code
---------------------------------------------------
-From the First tutorial, we are introduced to Pycharm code editor. And most student if not all adapt to the code editor. Pycharm is great just as much as VS code, but it's easier working with HTML, CSS, JS in VS code than Pycharm, henceforth, I shift to VS code for the rest of the challange. Setting up VS code for django environment can be a nightmare especially for begginers. Here is how to get started.
+## Day 2
 
+1. Formatted strings and string methods
+2. Arithmetic operation, Operation precedence and Math functions
+3. If else statements, Logical operators and Comparison Operators
+4. Attempted 3 more challenges
 
-More hacks coming soon...
+## Day 3
 
-1. Install VS code (if you haven't already) 
-2. Download and Install python.
-3. Install django framework -> run (pip install Django) command
-4. Install the Python extension for Visual Studio Code (ctrl + shift +X) has 94M+ downloads, verified by microsoft.
-5. Set up your environment (ctrl + shift +X) -> Run and debug, then select django
-6. Open or create a Python file and start coding!
+1. Loops -> While, for and Nested loops
+2. Objects -> List,Tuples and Dictionaries
+3. Concepts -> unpacking, positional and Keyword arguments
+4. Functions, exceptions
+5. Classes, Constructors, Inheritance
+6. succeeded in 8 more challenges
+
+## Day 4
+
+Done with Python core concepts by learning;
+
+1. Modules, packages, files and directories.
+2. Succeeded in 2 coding challenges.
+
+## Day 5
+
+Django intro
+
+1. Django files, commands.
+2. View functions, URL mapping, Models
+3. Admin panel and customization
+4. Templates and injecting bootstrap code.
+
+## Day 5
+
+Django intro
+
+1. Django files, commands.
+2. View functions, URL mapping, Models
+3. Admin panel and customization
+4. Templates and injecting bootstrap code.
+
+## Day 6
+
+Did revision on django.mini lessons and grouped them.
+
+1. View functions, urls mapping, templates.
+2. Models, and admin panel
