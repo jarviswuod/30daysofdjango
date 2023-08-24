@@ -1,0 +1,30 @@
+#logo{
+      }
+
+      .navbar-brand{
+      display:flex;
+      align-items:center;
+      gap:.8rem;
+      font-size:1.8rem;
+      }
+
+       .navbar-brand img{
+       max-width:2.4rem;
+       }
+
+      body{
+      background-color:#ebeff5;
+      }
+
+      #total-orders{
+      background-color:#4cb4c7;
+
+      }
+      #orders-delivered{
+      background-color:#7abecc;
+
+      }
+      #orders-pending{
+      background-color:#7CD1C0;
+
+      }
