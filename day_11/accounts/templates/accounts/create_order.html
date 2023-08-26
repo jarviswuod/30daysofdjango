@@ -12,8 +12,8 @@
                 {% csrf_token %}
                 {{ formset.management_form }}
                 {% for form in formset %}
-                {{ form }}
-                <hr>
+                    {{ form }}
+                    <hr>
                 {% endfor %}
                 <input type="submit" value="Submit">
             </form>
