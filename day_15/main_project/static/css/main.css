@@ -1,23 +1,31 @@
+html{
+    font-size:67.5%;
+}
+
 body{
-    font-size:1.8rem;
-    background-color:blue;
+    font-size:2rem;
+    color:#111;
+    background-color:#f7f7f7;
 }
 
 #logo{
 }
 
-
 .navbar-brand{
     display:flex;
     align-items:center;
     gap:.8rem;
-    font-size:10.8rem;
-    color:yellow;
+    font-size:2.8rem;
 }
 
-
 .navbar-brand img{
-    max-width:2.4rem;
+    max-width:4.8rem;
+}
+
+.navbar-brand span{
+   font-family: 'Caveat', cursive;
+   text-transform:uppercase;
+   font-weight:700;
 }
 
 #total-orders{
@@ -30,4 +38,14 @@ body{
 
 #orders-pending{
     background-color:#7CD1C0;
+}
+
+.hello-msg{
+  font-size:18px;
+  color:#000;
+  margin-left:20px;
+}
+
+.profile-pic{
+    max-width:9.8rem
 }
