@@ -11,7 +11,7 @@ Don't just watch, code along to get the most.
 
 ## Python Tutorial  By Mosh
 This tutorial introduces you to all the core concepts to getting started with python. It's like the base foundation to the entire journey. Ensure to have the core concpets well before moving forward else you will be more confused.
-Take you time to learning the concepts.
+Take time learning the concepts.
 You have some python knowledge? No worries just rewatch the tutorial for review. You can even watch the tutorial 2x faster if necessary. It's just important to jog your mind with the course before diving to Django.
 
 Since we are limited to time frame don't waste much time here coz there's still have lots to cover. 
@@ -39,15 +39,38 @@ From the First tutorial, we are introduced to Pycharm code editor. And most stud
 1. Install VS code (if you haven't already) 
 2. Download and Install python.
 3. Install django framework -> run (pip install Django) command
-4. Install the Python extension for Visual Studio Code (ctrl + shift +X ) has 94M+ downloads, verified by microsoft.
-5. Set up your environment (ctrl + shift +D ) -> Run and debug, then select django
+4. Install the Python extension for Visual Studio Code (ctrl + shift + X ) has 94M+ downloads, verified by microsoft.
+5. Set up your environment (ctrl + shift + D ) -> Run and debug, then select django
 6. Open or create a Python file and start coding!
 
-More hacks coming soon...
+
+### 1. Django introduction breakdown.
+--------------------------------------------------
+a. Commands
+  1. pip install django
+  2. django-admin startproject project_name
+  3. python manage.py runserver
+  4. python manage.py startapp app_name
+  5. python manage.py makemigrations
+  6. python manage.py migrate
+  8. python manage.py createsuperuser
+
+b. Django concepts.
+  1. View functions
+  2. URL Mapping
+  3. 
+
+## Django crash course by Dennis Ivy
+This tutorial series introduces you to core django concepts, right from what is django to decorators, signals and password resetting.
+
+### Parts to skip
+Watch the series from beginning to 20th tutorial then skip the rest. They are not important yet to secure a junoir role.
+
 
 
 ## Week 2 Talk abouts.
-Key concepts breakdown of Django Crash Tutorial;
+
+### Key concepts breakdown of Django Crash Tutorial;
 1. Definition of django
 2. Urls and views
 3. Templates and inheritance
@@ -62,3 +85,6 @@ Key concepts breakdown of Django Crash Tutorial;
 12. Authentication and Authorization
 13. User Role Based Permissions
 14. Django signals
+
+More coming soon...
+
