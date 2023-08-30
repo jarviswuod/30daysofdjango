@@ -28,7 +28,6 @@ Watch from beginning to [3:56:00](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=
 
 ## Week 1 Talk abouts.
 1. Shifting to VS code
-2. Deployment on Heroku
 3. Breaking down Django introduction part.
 4. Getting the most from Tutorial/ How to learn
 
@@ -40,8 +39,8 @@ From the First tutorial, we are introduced to Pycharm code editor. And most stud
 1. Install VS code (if you haven't already) 
 2. Download and Install python.
 3. Install django framework -> run (pip install Django) command
-4. Install the Python extension for Visual Studio Code (ctrl + shift +X) has 94M+ downloads, verified by microsoft.
-5. Set up your environment (ctrl + shift +X) -> Run and debug, then select django
+4. Install the Python extension for Visual Studio Code (ctrl + shift +X ) has 94M+ downloads, verified by microsoft.
+5. Set up your environment (ctrl + shift +D ) -> Run and debug, then select django
 6. Open or create a Python file and start coding!
 
 More hacks coming soon...
