@@ -45,3 +45,21 @@ From the First tutorial, we are introduced to Pycharm code editor. And most stud
 6. Open or create a Python file and start coding!
 
 More hacks coming soon...
+
+
+##Week 2 Talk abouts.
+Key concepts breakdown of Django Crash Tutorial;
+1. Definition of django
+2. Urls and views
+3. Templates and inheritance
+4. Static FIles and Images
+5. Database MOdels and Admin panels
+6. Database Realtionship - One to Many and Many to Many
+7. Database Model Queries
+8. Dynamic URL Routing & Templates
+9. CRUD operations
+10. Inline formsets
+11. Filter Form Table search
+12. Authentication and Authorization
+13. User Role Based Permissions
+14. Django signals
