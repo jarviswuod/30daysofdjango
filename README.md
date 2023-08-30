@@ -47,7 +47,7 @@ From the First tutorial, we are introduced to Pycharm code editor. And most stud
 More hacks coming soon...
 
 
-##Week 2 Talk abouts.
+## Week 2 Talk abouts.
 Key concepts breakdown of Django Crash Tutorial;
 1. Definition of django
 2. Urls and views
