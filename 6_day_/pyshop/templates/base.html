@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Apple</title>
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9"
+      crossorigin="anonymous"
+    />
+    <style>
+      * {
+        padding: 0;
+        margin: 0;
+      }
+
+      html {
+        font-size: 67.5%;
+      }
+
+      body {
+        font-size: 1.6rem;
+        color: #000;
+        background-color: #fff;
+        background-color: #f5f5f5;
+      }
+
+      .header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 3.2rem;
+        font-size: 1.4rem;
+        padding: 1.2rem 7.8rem;
+        background-color: #e8e8e8;
+        background-color: #fff;
+      }
+
+      .img-holder {
+      }
+
+      .nav-list {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 3.2rem;
+        list-style-type: none;
+      }
+
+      .nav-detail:link,
+      .nav-detail:visited {
+        text-decoration: none;
+        color: #333;
+      }
+
+      .nav-detail:hover,
+      .nav-detail:active {
+        color: #000;
+      }
+
+      .grid {
+        display: grid;
+      }
+
+      .grid-template-4 {
+        grid-template-columns: repeat(4, 1fr);
+      }
+
+      .row {
+        row-gap: 4.8rem;
+        column-gap: 3.2rem;
+      }
+
+      /* /////////////////////////// */
+      /* SECTION PRODUCT */
+      /* ////////////////////////// */
+
+      .section--products {
+        padding: 9.8rem 4.8rem;
+      }
+
+      .container {
+      }
+
+      .row {
+      }
+
+      .col {
+        border-radius: 1.2rem;
+        background-color: #fff;
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+        padding: 1.2rem;
+        gap: 1.2rem;
+        height: 100%;
+      }
+
+      .card {
+      }
+
+      .container .img-holder {
+        width: 100%;
+        margin-bottom: auto;
+      }
+
+      .container img {
+        width: 100%;
+      }
+
+      .card-body {
+        text-align: center;
+        padding: 1.2rem;
+      }
+
+      .card-title {
+        font-size: 2rem;
+        margin-bottom: 0.6rem;
+      }
+
+      .card-text {
+        font-size: 1.6rem;
+        margin-bottom: 1.8rem;
+      }
+
+      .btn {
+      }
+
+      .btn-primary {
+        padding: 0.8rem 1.2rem;
+        font-size: 1.6rem;
+      }
+    </style>
+  </head>
+  <body>
+    <header class="header">
+      <a class="img-holder">
+        <img
+          src="https://dotjarvis.github.io/50-projects/50.%20Uber%20eats%20clone/index_imgs/apple-logo.svg"
+          alt="apple-logo icon"
+        />
+        <nav class="nav">
+          <ul class="nav-list">
+            <li><a class="nav-detail" href="#"> Store </a></li>
+            <li><a class="nav-detail" href="#"> Mac </a></li>
+            <li><a class="nav-detail" href="#"> iPad </a></li>
+            <li><a class="nav-detail" href="#"> iPhone </a></li>
+            <li><a class="nav-detail" href="#"> Watch </a></li>
+            <li><a class="nav-detail" href="#"> Vision </a></li>
+            <li><a class="nav-detail" href="#"> AirPods </a></li>
+            <li><a class="nav-detail" href="#"> Tv & Home </a></li>
+            <li><a class="nav-detail" href="#"> Entertainment </a></li>
+            <li><a class="nav-detail" href="#"> Accessories </a></li>
+            <li><a class="nav-detail" href="#"> Support </a></li>
+          </ul>
+        </nav>
+      </a>
+    </header>
+    {% block content %} {% endblock %}
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
+      crossorigin="anonymous"
+    ></script>
+  </body>
+</html>
