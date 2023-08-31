@@ -58,12 +58,14 @@ a. Commands
 b. Django concepts.
   1. View functions
   2. URL Mapping
-  3. 
+  3. Models and Admin panel
+  4. Template and template Inheritance
+  5. Dynamic data rendering
+  6. Tags
+
 
 ## Django crash course by Dennis Ivy
-This tutorial series introduces you to core django concepts, right from what is django to decorators, signals and password resetting.
-
-### Parts to skip
+This tutorial series introduces you to core django concepts, right from what is django to decorators, signals and password resetting. 
 Watch the series from beginning to 20th tutorial then skip the rest. They are not important yet to secure a junoir role.
 
 
@@ -74,9 +76,9 @@ Watch the series from beginning to 20th tutorial then skip the rest. They are no
 1. Definition of django
 2. Urls and views
 3. Templates and inheritance
-4. Static FIles and Images
-5. Database MOdels and Admin panels
-6. Database Realtionship - One to Many and Many to Many
+4. Static Files and Images
+5. Database Models and Admin panels
+6. Database Relationship - One to Many and Many to Many
 7. Database Model Queries
 8. Dynamic URL Routing & Templates
 9. CRUD operations
