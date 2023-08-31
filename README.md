@@ -1,7 +1,7 @@
 # 30daysofdjango
-This repo is for sharing Django learning process for 30days afterwards building a real-world project and definitely add it to resume.
+Do you wanna level up your Django skills and be in a position of  building real-world projects in 30 days for free, this repo is for you. With the aid this repo you will gain enough django skills to help you build real-world projects afterwards and add it to resume.
 
-## Resources used
+## Resources
 1. [Watch Python Tutorial  By Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 2. [Tutorial series on django by Dennis Ivy](https://www.youtube.com/watch?v=xv_bwpA_aEA&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)
 3. [Build a Social Media App with Django](https://www.youtube.com/watch?v=xSUm6iMtREA)
