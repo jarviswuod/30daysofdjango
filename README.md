@@ -61,7 +61,7 @@ b. Django concepts.
   3. Models and Admin panel
   4. Template and template Inheritance
   5. Dynamic data rendering
-  6. Tags
+  6. Template tags
 
 
 ## Django crash course by Dennis Ivy
