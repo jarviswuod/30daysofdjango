@@ -1,6 +1,12 @@
 # 30daysofdjango
 Do you wanna level up your Django skills and be in a position of  building real-world projects in 30 days for free, this repo is for you. With the aid this repo you will gain enough django skills to help you build real-world projects afterwards and add it to resume.
 
+### Why learn django
+1. Among the top backend web frameworks
+2. Straightforward syntax
+3. Easy to put together a website, with minimal code.
+4. Suitable for freelancing.
+
 ## Resources
 1. [Watch Python Tutorial  By Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 2. [Tutorial series on django by Dennis Ivy](https://www.youtube.com/watch?v=xv_bwpA_aEA&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)
