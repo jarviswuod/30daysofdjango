@@ -5,6 +5,8 @@ What to learn today;
    3. views.py
    4. __init__.py
    5. wsgi.py
+   6. main.py
+   7. manage.py
 3. app file structure
    1. admin.py
    2. urls.py
