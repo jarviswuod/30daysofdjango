@@ -1,16 +1,14 @@
 What to learn today;
 1. project file structure
-   1. urls.py
+   1. __init__.py
    2. settings.py
-   3. views.py
-   4. __init__.py
-   5. wsgi.py
-   6. main.py
-   7. manage.py
+   3. urls.py
+   4. wsgi.py
 3. app file structure
-   1. admin.py
-   2. urls.py
-   3. views.py
+   1. __init__.py
+   2. admin.py
+   3. apps.py
    4. models.py
-   5. __init__.py
-   6. app.py
+   5. test.py
+   6. urls.py
+   7. views.py
