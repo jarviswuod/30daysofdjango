@@ -102,3 +102,5 @@ Watch the series from beginning to 20th tutorial then skip the rest. They are no
 14. Django signals
 
 More coming soon...
+
+Just start coding
