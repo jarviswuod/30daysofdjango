@@ -13,9 +13,9 @@ Do you wanna level up your Django skills and be in a position of building real-w
 
 1. [Watch Python Tutorial By Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
 2. [Tutorial series on django by Dennis Ivy](https://www.youtube.com/watch?v=xv_bwpA_aEA&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO)
-3. [Build a Social Media App with Django](https://www.youtube.com/watch?v=xSUm6iMtREA)
 4. [Python Django 7 Hour Course](https://www.youtube.com/watch?v=PtQiiknWUcI)
 5. [Django Project CRM App Tutorial](https://www.youtube.com/watch?v=t10QcFx7d5k)
+3. [Build a Social Media App with Django](https://www.youtube.com/watch?v=xSUm6iMtREA)
 6. Plus any tutorial that is promising...
 
 Don't just watch, always code along.
